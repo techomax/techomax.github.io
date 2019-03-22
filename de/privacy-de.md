@@ -1,3 +1,11 @@
+---
+layout: default
+title: Datenschitzerklärung | TECHOMAX
+description: Datenschitzerklärung
+lang: de
+ref: privacy
+---
+
 # Datenschutzerklärung von techomax.at - Deutsch
 ### Anbieter und Verantwortlicher
 **TECHOMAX GmbH**
