@@ -20,7 +20,7 @@ minima:
 
 # Build settings
 theme: minima
-
+permalink: pretty
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
