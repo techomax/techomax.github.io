@@ -21,6 +21,8 @@ minima:
 # Build settings
 theme: minima
 
+markdown: kramdown
+
 permalink: pretty
 
 plugins:
