@@ -9,16 +9,13 @@ ref: privacy
 <div class="container">
 
 ### Anbieter und Verantwortlicher
+
 **TECHOMAX GmbH**
-
 Heiligenstädter Lände 29 / 2. OG
-
 A-1190 Wien, Österreich
-
 UID-Nr. AT U71975838
 
 **E-Mail-Adresse des Anbieters:** info@techomax.at
-
 **Festnummer des Anbieters:** +43 1 361 44 1133
 
 ---
@@ -27,7 +24,8 @@ Die TECHOMAX GmbH *(nachfolgend "wir")* verwendet die von den Besuchern der Webs
 
 ---
 
-## Persönliche Daten, die für die folgenden Zwecke und die Nutzung der folgenden Dienste erhoben werden (weitere Informationen zu den einzelnen Diensten finden Sie im nächsten Abschnitt):
+## Persönliche Daten, die für die folgenden Zwecke und die Nutzung der folgenden Dienste erhoben werden:
+(weitere Informationen zu den einzelnen Diensten finden Sie im nächsten Abschnitt)
 
 ### 1. Analytik
 - **Google Analytics**
