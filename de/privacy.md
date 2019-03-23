@@ -6,8 +6,6 @@ lang: de
 ref: privacy
 ---
 
-<div class="container">
-
 ### Anbieter und Verantwortlicher
 
 **TECHOMAX GmbH**
@@ -90,5 +88,3 @@ Anbieter von Live-Chat-Widget.
 ---
 
 *Letzte Aktualisierung: 22. März 2019*
-
-</div>
