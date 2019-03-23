@@ -6,17 +6,29 @@ lang: de
 ref: privacy
 ---
 
+<div class="container">
+
 ### Anbieter und Verantwortlicher
 **TECHOMAX GmbH**
+
 Heiligenstädter Lände 29 / 2. OG
+
 A-1190 Wien, Österreich
+
 UID-Nr. AT U71975838
+
 **E-Mail-Adresse des Anbieters:** info@techomax.at
+
 **Festnummer des Anbieters:** +43 1 361 44 1133
+
 ---
+
 Die TECHOMAX GmbH *(nachfolgend "wir")* verwendet die von den Besuchern der Website *(nachfolgend "Unternehmen" oder "Nutzer")* erhobenen Daten ausschließlich zum Zwecke der erfolgreichen Abwicklung von Geschäften mit ihnen. **Wir erheben nicht mehr Daten, als für unsere Geschäftstätigkeit und unser Wachstum erforderlich sind**. Wir verkaufen die von uns erhobenen Daten **nicht**. Nur Mitarbeiter von TECHOMAX haben Zugriff auf die erhobenen Daten und verwenden sie nur für die Abwicklung von Geschäften mit den Unternehmen.
+
 ---
+
 ## Persönliche Daten, die für die folgenden Zwecke und die Nutzung der folgenden Dienste erhoben werden (weitere Informationen zu den einzelnen Diensten finden Sie im nächsten Abschnitt):
+
 ### 1. Analytik
 - **Google Analytics**
 Personenbezogene Daten:
@@ -46,8 +58,11 @@ Personenbezogene Daten:
 	- Informationen über die Art der Produkte, die das Unternehmen handelt
 	- Bankkontoinformationen der Firma
 Unsere Datenbank und unser Antragsformular werden von Airtable betrieben.
+
 ---
+
 ## Dritte mit Zugang zu Benutzerdaten, Grund für die Weitergabe dieser Daten und Links zu den jeweiligen Datenschutzrichtlinien und/oder Opt-out-Links:
+
 - **Google Inc.**
 Analytik-Anbieter
 [Datenschutzerklärung](https://policies.google.com/privacy?hl=de) — [Opt-out](https://tools.google.com/dlpage/gaoptout)
@@ -77,3 +92,5 @@ Anbieter von Live-Chat-Widget.
 ---
 
 *Letzte Aktualisierung: 22. März 2019*
+
+</div>
