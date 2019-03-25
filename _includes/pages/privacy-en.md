@@ -1,107 +1,72 @@
+
+### Owner and Data Controller
+**TECHOMAX GmbH**  
+Heiligenstädter Lände 29 / 2. OG  
+A-1190 Vienna, Austria  
+VAT Number: AT U71975838
+
+**Owner contact email:** info@techomax.at  
+**Owner contact phone number:** +43 1 361 44 1133
 ---
-layout: with-header
-title: Datenschutz-Erklärung von TECHOMAX.at
-description: Kurz gesagt, wir verwenden Ihre Daten nicht für andere Zwecke, außer mit Ihnen zu arbeiten.  
-lang: de
-ref: privacy
+TECHOMAX GmbH (hereafter “we”) uses the data collected from the website’s visitors (hereafter “company”, “companies”, “user” or “users”) for the sole purpose of successfully doing business with them. **We do not collect any more data than necessary** to do our business and grow. **We do not sell any data** we collect to any third party. Only employees of TECHOMAX have access to the data collected and use it only to conduct business with the companies.
 ---
+## Personal Data collected for the following purposes and using the following services (more details on the particular services can be found in the next section):
+### 1. Analytics
+- **Google Analytics**  
+Data collected:  
+	- Cookies and Usage Data
 
-<br>
-<br>
+### 2. Contacting the user 
+- **Mailing List**  
+Data collected:
+	- Email address
+	- Name of company
+Our mailing list provider is MailerLite. 
+- **Live Chat widget**  
+Data collected:
+	- Approximate location of user, based on their IP-Address
+	- Any messages and info that the user willingly sends
+Our Live Chat widget provider is Chaport.
 
-### Anbieter und Verantwortlicher
-
-**TECHOMAX GmbH**
-
-Heiligenstädter Lände 29 / 2. OG, 
-A-1190 Wien, Österreich
-
-UID-Nr. AT U71975838
-
-**E-Mail-Adresse des Anbieters:** info@techomax.at
-
-**Festnummer des Anbieters:** +43 1 361 44 1133
-
----
-
-Die TECHOMAX GmbH *(nachfolgend "wir")* verwendet die von den Besuchern der Website *(nachfolgend "Unternehmen" oder "Nutzer")* erhobenen Daten ausschließlich zum Zwecke der erfolgreichen Abwicklung von Geschäften mit ihnen. **Wir erheben nicht mehr Daten, als für unsere Geschäftstätigkeit und unser Wachstum erforderlich sind**. Wir verkaufen die von uns erhobenen Daten **nicht**. Nur Mitarbeiter von TECHOMAX haben Zugriff auf die erhobenen Daten und verwenden sie nur für die Abwicklung von Geschäften mit den Unternehmen.
-
----
-
-## Persönliche Daten, die für die folgenden Zwecke und die Nutzung der folgenden Dienste erhoben werden:
-(weitere Informationen zu den einzelnen Diensten finden Sie im nächsten Abschnitt)
-
-### 1. Analytik
-- **Google Analytics**
-Personenbezogene Daten:
-	- Cookies und Nutzungsdaten
-
-### 2. Kontaktaufnahme mit den Benutzer
-- **Mailing List**
-Personenbezogene Daten:
-	- E-Mail-Adresse
-	- Name des Unternehmen
-Unser Mailinglisten-Anbieter ist MailerLite.
-
-- **Live-Chat-Widget**
-Personenbezogene Daten:
-	- Ungefährer Standort des Benutzers, basierend auf seiner IP-Adresse.
-	- Alle Nachrichten und Informationen, die der Benutzer freiwillig sende
-Unser Live Chat Widget-Anbieter ist Chaport. 
-
-### 3. Registrierung & Verifizierung potenzieller Geschäfts-Partner
-- **Registrierungsformular**
-Personenbezogene Daten:
-	- Firmenname & rechtliche Details (z.B. Umsatzsteuer-Identifikationsnummer, Rechnungsadresse)
-	- Drittlogistik, mit der das Unternehmen zusammenarbeitet.
-	- Rechtliche Dokumente des Unternehmens und seines Geschäftsführers (z.B. digitale Kopien des Handelsregisters, Lichtbildausweis und relevante Dokumente)
-	- Kontaktdaten (E-Mail & Telefonnummer) des Firmensitzes
-	- Kontaktdaten (E-Mail & Telefonnummer) eines Ansprechpartners aus dem Unternehmen 
-	- Informationen über die Art der Produkte, die das Unternehmen handelt
-	- Bankkontoinformationen der Firma
-Unsere Datenbank und unser Antragsformular werden von Airtable betrieben.
-
+### 3. Registration & Verification of potential partners
+- **Registation Form**  
+Data collected:
+	* Company name & legal details (e.g. VAT number, billing address)
+	* Third-party logistics that the company works with
+	* Legal documents of the company and its director (i.e. digital copies of trade register, photo ID and relevant documents)
+	* Contact details (email & phone number) of company office
+	* Contact details (email & phone number) of a contact person from within the company Information regarding the kind of products that the company tardes
+	* Bank account information of company
+Our database and application form is powered by Airtable.
 ---
 
-## Dritte mit Zugang zu Benutzerdaten, Grund für die Weitergabe dieser Daten und Links zu den jeweiligen Datenschutzrichtlinien und/oder Opt-out-Links:
+## Third parties with access to user data, reason for sharing of said data and links to the respective privacy policies and/or opt-out links:
+- **Google Inc.**  
+*Analytics provider*  
+[Privacy Policy](https://policies.google.com/privacy?hl=en)  
+[Opt-out](https://tools.google.com/dlpage/gaoptout)  
+*Storage Provider (Google Drive)*  
+Google Analytics is a web analysis service provided by Google LLC or by Google Ireland Limited, depending on the location this Application is accessed from (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
+**Place of processing:** United States  
+Privacy Shield participant.  
+Data and documents we collect from companies is stored on Google Drive.
 
-- **Google Inc.**
-Analytik-Anbieter
+- **UAB "Mailerlite"**  
+*Mailing list provider. Managing contacts and sending messages.*  
+[Privacy Policy](https://www.mailerlite.com/legal/privacy-policy)  
+MailerLite is an email address management and message sending service provided by UAB "Mailerlite".  
+**Place of processing:** Lithuania
 
-Google Analytics ist ein Webanalysedienst, der von Google LLC oder von Google Ireland Limited bereitgestellt wird, je nachdem, von welchem Standort aus auf diese Anwendung zugegriffen wird ("Google"). Google verwendet die gesammelten Daten, um die Nutzung dieser Website zu verfolgen und zu überprüfen, um Berichte über ihre Aktivitäten zu erstellen und diese mit anderen Google-Diensten zu teilen.
-Google kann die gesammelten Daten verwenden, um die Anzeigen des eigenen Werbenetzwerks zu kontextualisieren und zu personalisieren.
+- **Airtable**  
+*Company database infrastructure provider.*  
+All data entered in the Registration Form (detailed info in the previous section) is stored on Airtable’s servers in the United States. Airtable uses 256 bit Advanced Encryption Standard (AES) to protect the data.  
+[Privacy Policy](https://airtable.com/privacy)  
+**Place of processing:** United States  
 
-**Personenbezogene Daten:** Cookies und Nutzungsdaten.
-
-[Datenschutzerklärung](https://policies.google.com/privacy?hl=de) — [Opt-out](https://tools.google.com/dlpage/gaoptout)
-
-**Verarbeitungsort:** Vereinigte Staaten von Amerika
-
-Teilnehmer am Privacy Shield. 
-Daten und Dokumente, die wir von Unternehmen sammeln, werden auf Google Drive gespeichert.
-
-- **UAB "Mailerlite"**
-Anbieter von Mailinglisten. Verwalten von Kontakten und Senden von Nachrichten.
-MailerLite ist ein E-Mail-Adressverwaltungs- und Nachrichtenversandservice der UAB "Mailerlite".
-
-[Datenschutzerklärung](https://www.mailerlite.com/legal/privacy-policy)
-
-**Verarbeitungsort:** Litauen
-
-- **Airtable**
-Anbieter von Datenbank-Infrastrukturen für Unternehmen. Alle im Registrierungsformular eingegebenen Daten (detaillierte Informationen im vorherigen Abschnitt) werden auf den Servern von Airtable in den Vereinigten Staaten gespeichert. Airtable verwendet 256 Bit Advanced Encryption Standard (AES) zum Schutz der Daten.
-
-[Datenschutzerklärung](https://airtable.com/privacy)
-
-**Verarbeitungsort:** Vereinigte Staaten von Amerika
-
-- **Chaport LLC**
-Anbieter von Live-Chat-Widget.
-
-[Datenschutzerklärung](https://www.chaport.com/privacy)
-
-**Verarbeitungsort:** Die Niederlande
-
+- **Chaport LLC**  
+Live chat widget provider.  
+[Privacy Policy](https://www.chaport.com/privacy)  
+**Place of processing:** The Netherlands  
 ---
-
-*Letzte Aktualisierung: 22. März 2019*
+Latest update: 22 March 2019
