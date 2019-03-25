@@ -11,12 +11,20 @@
             <div class="media-content col-md-10">
                 <div class="mbr-text align-center mbr-white pb-3">
                     <p class="mbr-text mbr-fonts-style display-2">
+                      {% if page.lang == 'en' %}
+                      <strong>Wholesale</strong> of Hardware, Software <br>&amp; Consumer Electronics
+                      {% else %}
                       <strong>Großhandel</strong> von Hardware, Software <br>&amp; Unterhaltungselektronik
+                      {% endif %}
                     </p>
                 </div>
                 <div class="mbr-section-btn align-center">
                   <a class="btn btn-md btn-secondary-outline display-4" href="/{{ page.lang }}/register"><span class="mbrib-cursor-click mbr-iconfont mbr-iconfont-btn"></span>
-                JETZT MIT UNS ARBEITEN
+                {% if page.lang == 'en' %}
+                  WORK WITH US
+                  {% else %}
+                  JETZT MIT UNS ARBEITEN
+                  {% endif %}
                  </a></div>
             </div>
         </div>
@@ -31,7 +39,11 @@
         <div class="inner-container" style="width: 66%;">
             <hr class="line" style="width: 57%;">
             <div class="section-text align-center mbr-white mbr-fonts-style display-2">
-            Problemlose Geschäfte und gute Kommunikation sind unsere Prioritäten!
+            {% if page.lang == 'en' %}
+              Problem-free business and good communication are our priorities!
+              {% else %}
+              Problemlose Geschäfte und gute Kommunikation sind unsere Prioritäten!
+              {% endif %}
             </div>
             <hr class="line" style="width: 57%;">
         </div>
@@ -52,7 +64,11 @@
                     <div class="media-content">
                         <div class="mbr-section-text">
                             <p class="mbr-text mb-0 mbr-fonts-style display-5"><strong><br></strong><strong>
-                            Geprüft von Handelot, damit wir schneller mit dem Handel anfangen können.
+                            {% if page.lang == 'en' %}
+                              Verified by handelot so that we can start closing deals faster.
+                              {% else %}
+                              Geprüft von Handelot, damit wir schneller mit dem Handel anfangen können.
+                              {% endif %}
                           </strong><br></p>
                         </div>
                     </div>
@@ -70,10 +86,21 @@
         <div class="media-container-row">
             <div class="row col-12 col-md-8">
                 <div class="col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style display-7">
-                  <p>Bestehend aus einem tatkräftigen Team, TECHOMAX wurde von Leuten mit mehr als einem Jahrzehnt Erfahrung im Großhandel gegründet.
-                  </p><p><br></p></div>
+                  <p>
+                    {% if page.lang == 'en' %}
+                      Consisting of an energetic team, TECHOMAX was founded by people with more than a decade of experience in wholesale.
+                      {% else %}
+                      Bestehend aus einem tatkräftigen Team, TECHOMAX wurde von Leuten mit mehr als einem Jahrzehnt Erfahrung im Großhandel gegründet.
+                      {% endif %}
+                  </p>
+                  <p><br></p>
+                </div>
                 <div class="col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style display-7">
-                Wir verfügen über ein starkes Netzwerk von unverzichtbaren Kunden und Lieferanten, mit dem Ziel, den Markt ständig zu bedienen, egal wie sehr er sich im Laufe der Jahre verändert.
+                {% if page.lang == 'en' %}
+                  We have a strong network of indispensable customers and suppliers with the aim of serving the market constantly, no matter how much it changes over the years.
+                  {% else %}
+                  Wir verfügen über ein starkes Netzwerk von unverzichtbaren Kunden und Lieferanten, mit dem Ziel, den Markt ständig zu bedienen, egal wie sehr er sich im Laufe der Jahre verändert.
+                  {% endif %}
                 </div>
             </div>
         </div>
@@ -186,10 +213,18 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2">
-                Abonnieren Sie unseren Newsletter
+                {% if page.lang == 'en' %}
+                  Subscribe to our Newsletter
+                  {% else %}
+                  Abonnieren Sie unseren Newsletter
+                  {% endif %}
                 </h2>
                 <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
-                Erhalten Sie Angebote und Anfragen
+                {% if page.lang == 'en' %}
+                  Get our offers and requests
+                  {% else %}
+                  Erhalten Sie Angebote und Anfragen
+                  {% endif %}
                 </h3>
                 
             </div>
@@ -222,13 +257,21 @@
                     <div class="media-content">
                         <div class="mbr-section-text">
                             <p class="mbr-text mb-0 mbr-fonts-style display-2"><strong><br></strong><strong>
-                            Fragen?
+                            {% if page.lang == 'en' %}
+                              Questions?
+                              {% else %}
+                              Fragen?
+                              {% endif %}
                           </strong><strong><br></strong>
-                          Nehmen Sie&nbsp;<strong>
-                            <a href="/{{ page.lang }}/contact" class="text-primary">
-                            Kontakt
-                            </a></strong> 
-                             auf!
+                          <strong>
+                                <a href="/{{ page.lang }}/contact" class="text-primary">
+                                {% if page.lang == 'en' %}
+                                  Get in touch
+                                  {% else %}
+                                  Nehmen Sie Kontakt auf!
+                                  {% endif %}
+                                </a>
+                            </strong> 
                             </p>
                         </div>
                     </div>
