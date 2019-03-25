@@ -1,4 +1,5 @@
-**Anbieter und Verantwortlicher:**
+
+### Anbieter und Verantwortlicher:
 
 **TECHOMAX GmbH**  
 Heiligenstädter Lände 29 / 2. OG,  
