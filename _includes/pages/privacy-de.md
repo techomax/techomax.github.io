@@ -1,14 +1,3 @@
----
-layout: with-header
-title: Datenschutz-Erklärung von TECHOMAX.at
-description: Kurz gesagt, wir verwenden Ihre Daten nicht für andere Zwecke, außer mit Ihnen zu arbeiten.  
-lang: de
-ref: privacy
----
-
-<br>
-<br>
-
 ### Anbieter und Verantwortlicher
 
 **TECHOMAX GmbH**
