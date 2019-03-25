@@ -41,10 +41,24 @@
             </div>
 
             <div class="media-content">
-                <h1 class="mbr-section-title mbr-white pb-3 mbr-fonts-style display-2"><strong>Triworx Logistic</strong></h1>
+                <h1 class="mbr-section-title mbr-white pb-3 mbr-fonts-style display-2">
+                    <strong>Triworx Logistic</strong>
+                </h1>
                 
                 <div class="mbr-section-text mbr-white pb-3 ">
-                    <p class="mbr-text mbr-fonts-style display-5">Triworx Logistic GmbH<br>Hauptstraße 33,<br>2485 Wimpassing an der Leitha,<br>Österreich<br><br><em>MO-DO: 08:00-16:30<br>FR: 08:00-13:30</em><br></p>
+                    <p class="mbr-text mbr-fonts-style display-5">Triworx Logistic GmbH<br>
+                        Hauptstraße 33,<br>2485 Wimpassing an der Leitha,<br>
+
+                        {% if page.lang == 'en' %}
+                            Austria<br><br>
+                            <em>MON-THU: 08:00-16:30<br>
+                            FRI: 08:00-13:30</em><br>
+                          {% else %}
+                            Österreich<br><br>
+                            <em>MO-DO: 08:00-16:30<br>
+                            FR: 08:00-13:30</em><br>
+                          {% endif %}
+                    </p>
                 </div>
                 
             </div>
@@ -71,11 +85,17 @@
                 
                 <div class="mbr-section-text mbr-white pb-3 ">
                     <p class="mbr-text mbr-fonts-style display-5">
-                        Panalpina Welttransport GmbH<br>Johann-Pamer-Straße 1,<br>2100 Korneuburg, Österreich<br>
+                        Panalpina Welttransport GmbH<br>Johann-Pamer-Straße 1,<br>2100 Korneuburg,
+                        {% if page.lang == 'en' %}
+                          Austria
+                          {% else %}
+                          Österreich
+                          {% endif %}
+                        <br>
                     </p>
                 </div>
                 <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="http://panalpina.com/www/global/en/home.html" target="_blank">WEBSITE</a>
-                    <a class="btn btn-md btn-white-outline display-4" href="https://mobirise.co">LIVE DEMO</a></div>
+                </div>
             </div>
         </div>
     </div>
@@ -95,7 +115,12 @@
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text">
-                            <p class="mbr-text mb-0 mbr-fonts-style display-5">Wir arbeiten auch mit <strong>DL Freight </strong>(NL), <strong>L&amp;A Freight</strong> (NL) und <strong>viele anderen Logistikunternehmen in Europa!</strong></p>
+                            
+                            {% if page.lang == 'en' %}
+                              <p class="mbr-text mb-0 mbr-fonts-style display-5">We also work with <strong>DL Freight </strong>(NL), <strong>L&amp;A Freight</strong> (NL) and <strong>many other logistics-companies in Europe!</strong></p>
+                              {% else %}
+                              <p class="mbr-text mb-0 mbr-fonts-style display-5">Wir arbeiten auch mit <strong>DL Freight </strong>(NL), <strong>L&amp;A Freight</strong> (NL) und <strong>viele anderen Logistikunternehmen in Europa!</strong></p>
+                              {% endif %}
                         </div>
                     </div>
                 </div>
@@ -111,7 +136,15 @@
     <div class="container">
         <div class="inner-container" style="width: 100%;">
             <hr class="line" style="width: 16%;">
-            <div class="section-text align-center mbr-fonts-style display-1"><strong>Versand</strong></div>
+            <div class="section-text align-center mbr-fonts-style display-1">
+                <strong> 
+                    {% if page.lang == 'en' %}
+                      Shipping
+                      {% else %}
+                      Versand
+                      {% endif %}
+                </strong>
+            </div>
             <hr class="line" style="width: 16%;">
         </div>
         </div>
@@ -173,8 +206,16 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style display-7">
                 <ol>
-                    <li><strong>CIP </strong>(Cost &amp; Insurance Paid<em>)&nbsp;</em>- Wir versenden die Ware und zahlen für alles, inkl. Versicherung.</li>
-                    <li><strong>EXW</strong> (Ex Works<em>)&nbsp;</em>- Sie übernehmen alle damit verbundenen Kosten, sodass die Ware von einem unserer Logistiklagern abgeholt wird.</li><li><strong>On-Hold </strong><span style="font-size: 1rem;">- Wir liefern die Ware "on-hold", d.h. Sie können die besichtigen, aber wir geben die erst nach Eingang der vollständigen Zahlung frei.</span></li>
+                    
+                    {% if page.lang == 'en' %}
+                        <li><strong>CIP </strong>(Cost &amp; Insurance Paid<em>)&nbsp;</em>- We ship the goods to you and pay all costs, including insurance</li>
+                        <li><strong>EXW</strong> (Ex Works<em>)&nbsp;</em>- You pay all costs related to the pickup of the goods from one of the logistics warehouses we work with. We only make the goods available for pickup.</li>
+                        <li><strong>On-Hold </strong><span style="font-size: 1rem;">- We deliver the goods "on-hold" at a logistics warehouse of your choice. That means you can inspect them but you can only take them after you pay the full amount due.</span></li>
+                      {% else %}
+                        <li><strong>CIP </strong>(Cost &amp; Insurance Paid<em>)&nbsp;</em>- Wir versenden die Ware und zahlen für alles, inkl. Versicherung.</li>
+                        <li><strong>EXW</strong> (Ex Works<em>)&nbsp;</em>- Sie übernehmen alle damit verbundenen Kosten, sodass die Ware von einem unserer Logistiklagern abgeholt wird.</li>
+                        <li><strong>On-Hold </strong><span style="font-size: 1rem;">- Wir liefern die Ware "on-hold", d.h. Sie können die besichtigen, aber wir geben die erst nach Eingang der vollständigen Zahlung frei.</span></li>
+                      {% endif %}
                 </ol>
             </div>
         </div>
@@ -188,8 +229,15 @@
     <div class="container">
         <div class="inner-container" style="width: 100%;">
             <hr class="line" style="width: 22%;">
-            <div class="section-text align-center mbr-fonts-style display-1"><strong>
-                    Firmendaten</strong></div>
+            <div class="section-text align-center mbr-fonts-style display-1">
+                <strong>
+                    {% if page.lang == 'en' %}
+                      Company Info
+                      {% else %}
+                      Firmendaten
+                      {% endif %}
+                </strong>
+                </div>
             <hr class="line" style="width: 22%;">
         </div>
         </div>
@@ -203,11 +251,33 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5"><div><strong>Handelsregister-Nr.:</strong> FN 465679y
-</div><div><strong>UID-Nr.:</strong> ATU71975838
-</div><div>
-</div><div><strong>Büro/Rechnungsadresse: 
-</strong></div><div>Heiligenstädter Lände 29/2. OG,</div><div>1190 Wien,&nbsp;<span style="font-size: 1.5rem;">Österreich</span></div></h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
+                    {% if page.lang == 'en' %}
+                        <div> <strong>Trade Register No.:</strong> FN 465679y
+                        </div>
+                        <div> <strong>VAT No.:</strong> ATU71975838
+                        </div>
+                        <div><strong>Office/Billing&nbsp;Address: 
+                        </strong>
+                        </div>
+                        <div>Heiligenstädter Lände 29/2. OG,
+                        </div>
+                        <div>1190 Vienna, <span style="font-size: 1.5rem;">Austria</span>
+                        </div>
+                      {% else %}
+                        <div> <strong>Handelsregister-Nr.:</strong> FN 465679y
+                        </div>
+                        <div> <strong>UID-Nr.:</strong> ATU71975838
+                        </div>
+                        <div><strong>Büro/Rechnungsadresse: 
+                        </strong>
+                        </div>
+                        <div>Heiligenstädter Lände 29/2. OG,
+                        </div>
+                        <div>1190 Wien,&nbsp;<span style="font-size: 1.5rem;">Österreich</span>
+                        </div>
+                      {% endif %}
+                </h3>
                 
             </div>
         </div>
@@ -221,8 +291,15 @@
     <div class="container">
         <div class="inner-container" style="width: 100%;">
             <hr class="line" style="width: 32%;">
-            <div class="section-text align-center mbr-fonts-style display-1"><strong>
-                    Bank-Verbindung</strong></div>
+            <div class="section-text align-center mbr-fonts-style display-1">
+                <strong>
+                    {% if page.lang == 'en' %}
+                      Bank Accounts
+                      {% else %}
+                      Bank-Verbindung
+                      {% endif %}
+                </strong>
+            </div>
             <hr class="line" style="width: 32%;">
         </div>
         </div>
@@ -241,7 +318,51 @@
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text">
-                            <p class="mbr-text mb-0 mbr-fonts-style display-7"><strong>BAWAG P.S.K.</strong><br>Georg-Coch-Platz 2, AT-1018 Wien<br>IBAN: AT45 1400 0001 1046 4215 <br>SWIFT: BAWAATWW<br>Kontoinhaber: TECHOMAX GmbH<br><br><strong>UniCredit Bank Austria AG</strong><br>Schottengasse 6-8, AT-1010 Wien<br>IBAN: AT57 1200 0100 2102 9862<br>BIC: BKAUATWW<br>Kontoinhaber: TECHOMAX GmbH<br></p>
+                            <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                                {% if page.lang == 'en' %}
+                                    <strong>BAWAG P.S.K.</strong>
+                                    <br>
+                                    Georg-Coch-Platz 2, AT-1018 Vienna
+                                    <br>
+                                    IBAN: AT45 1400 0001 1046 4215
+                                    <br>
+                                    SWIFT: BAWAATWW
+                                    <br>
+                                    Beneficiary: TECHOMAX GmbH
+                                    <br>
+                                    <br>
+                                    <strong>UniCredit Bank Austria AG</strong>
+                                    <br>
+                                    Schottengasse 6-8, AT-1010 Vienna
+                                    <br>
+                                    IBAN: AT57 1200 0100 2102 9862
+                                    <br>
+                                    BIC: BKAUATWW
+                                    <br>
+                                    Beneficiary: TECHOMAX GmbH<br>
+                                  {% else %}
+                                  <strong>BAWAG P.S.K.</strong>
+                                    <br>
+                                    Georg-Coch-Platz 2, AT-1018 Wien
+                                    <br>
+                                    IBAN: AT45 1400 0001 1046 4215
+                                    <br>
+                                    SWIFT: BAWAATWW
+                                    <br>
+                                    Kontoinhaber: TECHOMAX GmbH
+                                    <br>
+                                    <br>
+                                    <strong>UniCredit Bank Austria AG</strong>
+                                    <br>
+                                    Schottengasse 6-8, AT-1010 Wien
+                                    <br>
+                                    IBAN: AT57 1200 0100 2102 9862
+                                    <br>
+                                    BIC: BKAUATWW
+                                    <br>
+                                    Kontoinhaber: TECHOMAX GmbH<br>
+                                  {% endif %}
+                            </p>
                         </div>
                     </div>
                 </div>
