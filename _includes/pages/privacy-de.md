@@ -2,11 +2,11 @@
 
 **TECHOMAX GmbH**
 
-Heiligenstädter Lände 29 / 2. OG,\
-A-1190 Wien, Österreich\
+Heiligenstädter Lände 29 / 2. OG,  
+A-1190 Wien, Österreich  
 UID-Nr. AT U71975838
 
-**E-Mail-Adresse des Anbieters:** info@techomax.at\
+**E-Mail-Adresse des Anbieters:** info@techomax.at  
 **Festnummer des Anbieters:** +43 1 361 44 1133
 
 ---
@@ -53,31 +53,31 @@ Unsere Datenbank und unser Antragsformular werden von Airtable betrieben.
 ## Dritte mit Zugang zu Benutzerdaten, Grund für die Weitergabe dieser Daten und Links zu den jeweiligen Datenschutzrichtlinien und/oder Opt-out-Links:
 
 - **Google Inc.**
-Analytik-Anbieter\
-Google Analytics ist ein Webanalysedienst, der von Google LLC oder von Google Ireland Limited bereitgestellt wird, je nachdem, von welchem Standort aus auf diese Anwendung zugegriffen wird ("Google"). Google verwendet die gesammelten Daten, um die Nutzung dieser Website zu verfolgen und zu überprüfen, um Berichte über ihre Aktivitäten zu erstellen und diese mit anderen Google-Diensten zu teilen.\
-Google kann die gesammelten Daten verwenden, um die Anzeigen des eigenen Werbenetzwerks zu kontextualisieren und zu personalisieren.\
-**Personenbezogene Daten:** Cookies und Nutzungsdaten.\
-[Datenschutzerklärung](https://policies.google.com/privacy?hl=de)\
-[Opt-out](https://tools.google.com/dlpage/gaoptout)\
-**Verarbeitungsort:** Vereinigte Staaten von Amerika\
-Teilnehmer am Privacy Shield.\
+Analytik-Anbieter  
+Google Analytics ist ein Webanalysedienst, der von Google LLC oder von Google Ireland Limited bereitgestellt wird, je nachdem, von welchem Standort aus auf diese Anwendung zugegriffen wird ("Google"). Google verwendet die gesammelten Daten, um die Nutzung dieser Website zu verfolgen und zu überprüfen, um Berichte über ihre Aktivitäten zu erstellen und diese mit anderen Google-Diensten zu teilen.  
+Google kann die gesammelten Daten verwenden, um die Anzeigen des eigenen Werbenetzwerks zu kontextualisieren und zu personalisieren.  
+**Personenbezogene Daten:** Cookies und Nutzungsdaten.  
+[Datenschutzerklärung](https://policies.google.com/privacy?hl=de)  
+[Opt-out](https://tools.google.com/dlpage/gaoptout)  
+**Verarbeitungsort:** Vereinigte Staaten von Amerika  
+Teilnehmer am Privacy Shield.  
 Daten und Dokumente, die wir von Unternehmen sammeln, werden auf Google Drive gespeichert.
 
 - **UAB "Mailerlite"**
-Anbieter von Mailinglisten. Verwalten von Kontakten und Senden von Nachrichten.\
-MailerLite ist ein E-Mail-Adressverwaltungs- und Nachrichtenversandservice der UAB "Mailerlite".\
-[Datenschutzerklärung](https://www.mailerlite.com/legal/privacy-policy)\
+Anbieter von Mailinglisten. Verwalten von Kontakten und Senden von Nachrichten.  
+MailerLite ist ein E-Mail-Adressverwaltungs- und Nachrichtenversandservice der UAB "Mailerlite".  
+[Datenschutzerklärung](https://www.mailerlite.com/legal/privacy-policy)  
 **Verarbeitungsort:** Litauen
 
 - **Airtable**
-Anbieter von Datenbank-Infrastrukturen für Unternehmen.\
-Alle im Registrierungsformular eingegebenen Daten (detaillierte Informationen im vorherigen Abschnitt) werden auf den Servern von Airtable in den Vereinigten Staaten gespeichert. Airtable verwendet 256 Bit Advanced Encryption Standard (AES) zum Schutz der Daten.\
-[Datenschutzerklärung](https://airtable.com/privacy)\
+Anbieter von Datenbank-Infrastrukturen für Unternehmen.  
+Alle im Registrierungsformular eingegebenen Daten (detaillierte Informationen im vorherigen Abschnitt) werden auf den Servern von Airtable in den Vereinigten Staaten gespeichert. Airtable verwendet 256 Bit Advanced Encryption Standard (AES) zum Schutz der Daten.  
+[Datenschutzerklärung](https://airtable.com/privacy)  
 **Verarbeitungsort:** Vereinigte Staaten von Amerika
 
 - **Chaport LLC**
-Anbieter von Live-Chat-Widget.\
-[Datenschutzerklärung](https://www.chaport.com/privacy)\
+Anbieter von Live-Chat-Widget.  
+[Datenschutzerklärung](https://www.chaport.com/privacy)  
 **Verarbeitungsort:** Die Niederlande
 
 ---
