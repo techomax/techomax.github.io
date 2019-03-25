@@ -5,7 +5,12 @@
             <!--Titles-->
             <div class="title col-12">
                 <h2 class="align-left mbr-fonts-style display-1">
-                    Kontakt</h2>
+                    {% if page.lang == 'en' %}
+                    Contact
+                    {% else %}
+                    Kontakt
+                    {% endif %}
+                </h2>
                 
             </div>
             <div class="col-12">
@@ -29,8 +34,19 @@
                             </span>
                             <div class="b-info b-phone">
                                 <h5 class="align-left mbr-fonts-style display-5">
-                                    Telefon</h5>
-                                <p class="mbr-text align-left mbr-fonts-style display-5"><a href="https://api.whatsapp.com/send?phone=436766225503&text=I%27m%20interested%20in%20the%20offer%20from%20your%2001.02.19%20newsletter" target="_blank"><strong>Mobil: +43 676 6225503</strong></a><br></p>
+                                    {% if page.lang == 'en' %}
+                                    Phone Number
+                                    {% else %}
+                                    Telefon
+                                    {% endif %}
+                                </h5>
+                                <p class="mbr-text align-left mbr-fonts-style display-5"><a href="https://api.whatsapp.com/send?phone=436766225503&text=I%27m%20interested%20in%20the%20offer%20from%20your%2001.02.19%20newsletter" target="_blank"><strong>
+                                    {% if page.lang == 'en' %}
+                                    Mobile
+                                    {% else %}
+                                    Mobil:
+                                    {% endif %}
+                                +43 676 6225503</strong></a><br></p>
                             </div>
                         </div>
                     </div>
@@ -53,7 +69,12 @@
                             </span>
                             <div class="b-info b-mail">
                                 <h5 class="align-left mbr-fonts-style display-5">
-                                    Arbeitszeiten</h5>
+                                    {% if page.lang == 'en' %}
+                                    Working Hours
+                                    {% else %}
+                                    Arbeitszeiten
+                                    {% endif %}
+                                </h5>
                                 <p class="mbr-text align-left mbr-fonts-style display-5"><a href="#"><strong>
                                     09:00-17:00 (CET)</strong></a></p>
                             </div>
