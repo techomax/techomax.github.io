@@ -7,9 +7,12 @@ VAT Number: AT U71975838
 
 **Owner contact email:** info@techomax.at  
 **Owner contact phone number:** +43 1 361 44 1133
+
 ---
 TECHOMAX GmbH (hereafter “we”) uses the data collected from the website’s visitors (hereafter “company”, “companies”, “user” or “users”) for the sole purpose of successfully doing business with them. **We do not collect any more data than necessary** to do our business and grow. **We do not sell any data** we collect to any third party. Only employees of TECHOMAX have access to the data collected and use it only to conduct business with the companies.
+
 ---
+
 ## Personal Data collected for the following purposes and using the following services (more details on the particular services can be found in the next section):
 ### 1. Analytics
 - **Google Analytics**  
