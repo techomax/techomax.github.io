@@ -7,7 +7,12 @@
         <div class="inner-container" style="width: 100%;">
             <hr class="line" style="width: 42%;">
             <div class="section-text align-center mbr-fonts-style display-1">
-                    Wie registrieren wir uns?</div>
+                    {% if page.lang == 'en' %}
+                      How to Register
+                      {% else %}
+                      Wie registrieren wir uns?
+                      {% endif %}
+            </div>
             <hr class="line" style="width: 42%;">
         </div>
         </div>
@@ -31,9 +36,22 @@
                         </h3>
                     </div>          
                     <div class="step-text-content align-center">
-                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5"><strong>Formular ausfüllen</strong></h4>
+                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">
+                            <strong>
+                        {% if page.lang == 'en' %}
+                          Fill form out
+                          {% else %}
+                          Formular ausfüllen
+                          {% endif %}
+                            </strong>
+                        </h4>
                         <p class="mbr-step-text mbr-fonts-style display-7">
-                            Sie füllen das Formular unten aus; so wird ihre Firma zu unserem System automatisch hinzugefügt.</p>
+                              {% if page.lang == 'en' %}
+                              By filling out the form below, you automatically get added to our system.
+                              {% else %}
+                              Sie füllen das Formular unten aus; so wird ihre Firma zu unserem System automatisch hinzugefügt.
+                              {% endif %}
+                          </p>
                     </div>
                 </div>
             </div>
@@ -46,8 +64,22 @@
                         </h3>
                     </div>          
                     <div class="step-text-content align-center">
-                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5"><strong>Email mit PDF</strong></h4>
-                        <p class="mbr-step-text mbr-fonts-style display-7">Nachdem wir ihre Daten und Unterlagen geprüft haben, bekommen Sie eine PDF-Datei mit ihren Daten.</p>
+                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">
+                            <strong>
+                                {% if page.lang == 'en' %}
+                                  Email with PDF
+                                  {% else %}
+                                  Email mit PDF
+                                  {% endif %}
+                            </strong>
+                        </h4>
+                        <p class="mbr-step-text mbr-fonts-style display-7">
+                        {% if page.lang == 'en' %}
+                          After we verify your data, you will get a pre-filled PDF-Form per email.
+                          {% else %}
+                          Nachdem wir ihre Daten und Unterlagen geprüft haben, bekommen Sie eine PDF-Datei mit ihren Daten.
+                          {% endif %}
+                        </p>
                     </div>
                 </div>
             </div>
@@ -60,8 +92,22 @@
                         </h3>
                     </div>          
                     <div class="step-text-content align-center">
-                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5"><strong>Unterschrift</strong></h4>
-                        <p class="mbr-step-text mbr-fonts-style display-7">Der Geschäftsführer ihrer Firma unterschreibt; dann&nbsp;können wir Geschäfte abschießen!</p>
+                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">
+                            <strong>
+                                {% if page.lang == 'en' %}
+                                  Signature
+                                  {% else %}
+                                  Unterschrift
+                                  {% endif %}
+                            </strong>
+                        </h4>
+                        <p class="mbr-step-text mbr-fonts-style display-7">
+                            {% if page.lang == 'en' %}
+                              The director of your company signs and we can start closing deals together!
+                              {% else %}
+                              Der Geschäftsführer ihrer Firma unterschreibt; dann können wir Geschäfte abschießen!
+                              {% endif %}
+                        </p>
                     </div>
                 </div>
             </div>
@@ -98,7 +144,15 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="mbr-text col-12 mbr-fonts-style display-5 col-md-8"><p>❝ Vielen Dank für Ihre Zeit! ❞</p></div>
+            <div class="mbr-text col-12 mbr-fonts-style display-5 col-md-8">
+                <p>
+                    {% if page.lang == 'en' %}
+                      ❝ Many thanks for your time! ❞
+                      {% else %}
+                      ❝ Vielen Dank für Ihre Zeit! ❞
+                      {% endif %}
+                </p>
+            </div>
         </div>
     </div>
 </section>
