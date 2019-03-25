@@ -24,20 +24,20 @@ Personenbezogene Daten:
 	- Cookies und Nutzungsdaten
 
 ### 2. Kontaktaufnahme mit den Benutzer
-- **Mailing List**
+- **Mailing List**  
 Personenbezogene Daten:
 	- E-Mail-Adresse
 	- Name des Unternehmen
 Unser Mailinglisten-Anbieter ist MailerLite.
 
-- **Live-Chat-Widget**
+- **Live-Chat-Widget**  
 Personenbezogene Daten:
 	- Ungefährer Standort des Benutzers, basierend auf seiner IP-Adresse.
 	- Alle Nachrichten und Informationen, die der Benutzer freiwillig sende
 Unser Live Chat Widget-Anbieter ist Chaport. 
 
 ### 3. Registrierung & Verifizierung potenzieller Geschäfts-Partner
-- **Registrierungsformular**
+- **Registrierungsformular**  
 Personenbezogene Daten:
 	- Firmenname & rechtliche Details (z.B. Umsatzsteuer-Identifikationsnummer, Rechnungsadresse)
 	- Drittlogistik, mit der das Unternehmen zusammenarbeitet.
