@@ -5,3 +5,8 @@ description: In short, we do not use your data for purposes other than working w
 lang: en
 ref: privacy
 ---
+
+{% capture privacy-en %}
+	{% include pages/privacy-en.md %}
+{% endcapture %}
+{{ privacy-en | markdownify }}
