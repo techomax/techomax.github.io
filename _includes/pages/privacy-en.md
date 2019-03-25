@@ -41,6 +41,7 @@ Data collected:
 	* Contact details (email & phone number) of a contact person from within the company Information regarding the kind of products that the company tardes
 	* Bank account information of company
 Our database and application form is powered by Airtable.
+
 ---
 
 ## Third parties with access to user data, reason for sharing of said data and links to the respective privacy policies and/or opt-out links:
