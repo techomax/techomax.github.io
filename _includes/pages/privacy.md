@@ -6,9 +6,8 @@ lang: de
 ref: privacy
 ---
 
-
-
-
+<br>
+<br>
 
 ### Anbieter und Verantwortlicher
 
