@@ -76,21 +76,16 @@ ref: register
 
             
             
-            
-            
-            
-            
-            
-            
-            
-            
-            
         </div>
     </div>
 </section>
 
 <section id="form">
-    {%- include airtable-registration-form-de.html -%}
+    {% if page.lang == 'en' %}
+    {%- include airtable/airtable-registration-form-en.html -%}
+    {% else %}
+    {%- include airtable/airtable-registration-form-de.html -%}
+    {% endif %}
 </section>
 
 <section class="cid-qY4507ySMs" id="image1-16">
