@@ -9,14 +9,7 @@ ref: privacy
 <br>
 <br>
 
-{% if page.lang == 'en' %}
-	{% capture privacy-en %}
-		{% include pages/privacy-en.md %}
-	{% endcapture %}
-	{{ privacy-en | markdownify }}
-{% else %}
-	{% capture privacy-en %}
-		{% include pages/privacy-de.md %}
-	{% endcapture %}
-	{{ privacy-de | markdownify }}
-{% endif %}
+{% capture privacy-de %}
+	{% include pages/privacy-de.md %}
+{% endcapture %}
+{{ privacy-de | markdownify }}
