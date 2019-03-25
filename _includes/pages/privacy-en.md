@@ -70,6 +70,7 @@ All data entered in the Registration Form (detailed info in the previous section
 - **Chaport LLC**  
 Live chat widget provider.  
 [Privacy Policy](https://www.chaport.com/privacy)  
-**Place of processing:** The Netherlands  
+**Place of processing:** The Netherlands
+
 ---
 Latest update: 22 March 2019
