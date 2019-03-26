@@ -10,7 +10,6 @@ UID-Nr. AT U71975838
 **Festnummer des Anbieters:** +43 1 361 44 1133
 
 ---
-
 Die TECHOMAX GmbH *(nachfolgend "wir")* verwendet die von den Besuchern der Website *(nachfolgend "Unternehmen" oder "Nutzer")* erhobenen Daten ausschließlich zum Zwecke der erfolgreichen Abwicklung von Geschäften mit ihnen. **Wir erheben nicht mehr Daten, als für unsere Geschäftstätigkeit und unser Wachstum erforderlich sind**. Wir verkaufen die von uns erhobenen Daten **nicht**. Nur Mitarbeiter von TECHOMAX haben Zugriff auf die erhobenen Daten und verwenden sie nur für die Abwicklung von Geschäften mit den Unternehmen.
 
 ---

@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: with-header
 title: Impressum
-description: Impressum
+enscription: Impressum
 lang: en
 ref: impressum
 ---
 
-{% include pages/impressum.html %}
+{% capture impressum-en %}
+	{% incluen pages/impressum-en.md %}
+{% endcapture %}
+{{ impressum-en | markdownify }}
