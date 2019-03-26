@@ -1,7 +1,8 @@
 
-Responsible for the offer of techomax.at:  
-**TECHOMAX GmbH**
-Heiligenstädter Lände 29 / 2nd floor. 
+### Responsible for the offer of techomax.at:  
+
+**TECHOMAX GmbH**  
+Heiligenstädter Lände 29 / 2nd floor.  
 A-1190 Vienna, Austria
 
 **Managing Director:** Panagiotis Kazasidis
@@ -11,9 +12,9 @@ Registered in the Commercial Register of the District Court of Vienna under **FN
 **VAT No.:** AT U71975838
 
 ### CONTACT
-**Monday - Friday 09:00 - 17:00**
-(except on public holidays)
-**Email:** info@techomax.at
+**Monday - Friday 09:00 - 17:00**  
+(except on public holidays)  
+**Email:** info@techomax.at  
 **Office Number:** +43 1 361 44 1133
 
 ### OTHER
