@@ -1,11 +1,20 @@
-Auf dieser Seite finden Sie die Allgemeinen Geschäftsbedingungen für die Nutzung der offiziellen Website von TECHOMAX GmbH (techomax.at). Wenn Sie unsere Website weiterhin nutzen, haben Sie folgenden Punkten und unsere Datenschutzerklärung zugestimmt und/oder sie zumindest zur Kenntnis genommen.
 
-1. Diese Website ist das Eigentum von **TECHOMAX GmbH**. Abschnitte der Website, Markenzeichen, Inhalte, Logos oder Grafiken (*) dürfen nicht kopiert, weitergeleitet oder ohne ausdrückliche Erlaubnis von TECHOMAX GmbH genutzt werden. Alle Anfragen zur Nutzung oder Kopie von Informationen, Markenzeichen, Logos und Bildern, die auf der Website techomax.at veröffentlicht sind, müssen an TECHOMAX GmbH gerichtet werden.
+Verantwortlich für das Angebot auf techomax.at:  
+**TECHOMAX GmbH**
+Heiligenstädter Lände 29 / 2. OG. 
+A-1190 Wien, Österreich
 
-2. Durch die Links auf unserer Website können Sie **andere Websites erreichen, die nicht unter ständiger Beobachtung von TECHOMAX GmbH stehen**. Für den Inhalt dieser Websites inklusive deren Links sowie für Änderungen und/oder Updates des Inhalts übernimmt TECHOMAX GmbH keinerlei Haftung und kann somit nicht zur Verantwortung gezogen werden. Die Links auf unserer Website dienen ausschließlich der Benutzerfreundlichkeit.
+**Geschäftsführer:** Panagiotis Kazasidis
 
-3. **Websitebesuche dürfen für statistische Zwecke registriert werden**, um die Kontinuität sowie die regelmäßige Verbesserung der Website sicherzustellen. **Lesen Sie auch unsere [Datenschutzerklärung](/{{ page.lang }}/privacy)**.
+Eingetragen im Handelsregister des Amtsgerichts Wien unter **FN 465679y**
 
-4. TECHOMAX GmbH behält sich das Recht vor, jederzeit einzelne oder alle **Informationen und Daten auf dieser Website zu ändern** / anzupassen / zu ersetzen / zu aktualisieren und/oder zu löschen.
+**USt-ID-Nr.:** AT U71975838
 
-`*` Alle Illustrationen auf techomax.at sind MIT-lizenziert.
+### KONTAKT
+**Montag - Freitag 09:00 - 17:00 Uhr**
+(ausgenommen an Feiertagen)
+**Email:** info@techomax.at
+**Festnummer:** +43 1 361 44 1133
+
+### WEITERE
+Die EU-Kommission stellt eine Plattform für außergerichtliche Streitschlichtung bereit. Verbrauchern gibt dies die Möglichkeit, Streitigkeiten im Zusammenhang mit Ihrer Online-Bestellung zunächst ohne die Einschaltung eines Gerichts zu klären. Die Streitbeilegungs-Plattform ist unter dem externen Link https://ec.europa.eu/consumers/odr erreichbar.

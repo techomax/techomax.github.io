@@ -1,8 +1,12 @@
 ---
-layout: default
+layout: with-header
 lang: en
 ref: agb
 title: Terms of Service
+description: Terms of Service of Techomax.at
 ---
 
-{% include pages/agb.html %}
+{% capture agb-en %}
+	{% include pages/agb-en.md %}
+{% endcapture %}
+{{ agb-en | markdownify }}

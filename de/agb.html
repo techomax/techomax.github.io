@@ -1,8 +1,12 @@
 ---
-layout: default
+layout: with-header
 lang: de
 ref: agb
-title: AGB
+title: Allgemeinen Geschäftsbedingungen
+description: Allgemeinen Geschäftsbedingungen von techomax.at
 ---
 
-{% include pages/agb.html %}
+{% capture agb-de %}
+	{% include pages/agb-de.md %}
+{% endcapture %}
+{{ agb-de | markdownify }}
