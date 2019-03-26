@@ -6,7 +6,13 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2">Allgemeine Geschäfts-bedingungen von techomax.at</h2>
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                {% if page.lang == 'en' %}
+                Terms of Service of techomax.at
+                {% else %}
+                Allgemeine Geschäfts-bedingungen von techomax.at
+                {% endif %}
+            </h2>
             </div>
         </div>
     </div>
