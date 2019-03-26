@@ -11,11 +11,11 @@ Eingetragen im Handelsregister des Amtsgerichts Wien unter **FN 465679y**
 
 **USt-ID-Nr.:** AT U71975838
 
-### KONTAKT
+### Kontakt
 **Montag - Freitag 09:00 - 17:00 Uhr**  
 (ausgenommen an Feiertagen)  
 **Email:** info@techomax.at  
 **Festnummer:** +43 1 361 44 1133
 
-### WEITERE
-Die EU-Kommission stellt eine Plattform für außergerichtliche Streitschlichtung bereit. Verbrauchern gibt dies die Möglichkeit, Streitigkeiten im Zusammenhang mit Ihrer Online-Bestellung zunächst ohne die Einschaltung eines Gerichts zu klären. Die Streitbeilegungs-Plattform ist unter dem externen Link https://ec.europa.eu/consumers/odr erreichbar.
+### Weitere
+Die EU-Kommission stellt eine Plattform für außergerichtliche Streitschlichtung bereit. Verbrauchern gibt dies die Möglichkeit, Streitigkeiten im Zusammenhang mit Ihrer Online-Bestellung zunächst ohne die Einschaltung eines Gerichts zu klären. Die Streitbeilegungs-Plattform ist unter dem externen Link [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr) erreichbar.
