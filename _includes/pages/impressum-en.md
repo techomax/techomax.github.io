@@ -15,7 +15,7 @@ Registered in the Commercial Register of the District Court of Vienna under **FN
 ### Contact
 **Monday - Friday 09:00 - 17:00**  
 (except on public holidays)  
-**Email:** info@techomax.at  
+**Email:** info`@`techomax`.`at  
 **Office Number:** +43 1 361 44 1133
 
 ---

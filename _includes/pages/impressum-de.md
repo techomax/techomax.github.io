@@ -15,7 +15,7 @@ Eingetragen im Handelsregister des Amtsgerichts Wien unter **FN 465679y**
 ### Kontakt
 **Montag - Freitag 09:00 - 17:00 Uhr**  
 (ausgenommen an Feiertagen)  
-**Email:** info@techomax.at  
+**Email:** info`@`techomax`.`at  
 **Festnummer:** +43 1 361 44 1133
 
 ---
