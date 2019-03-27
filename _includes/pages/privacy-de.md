@@ -6,7 +6,7 @@ Heiligenstädter Lände 29 / 2. OG,
 A-1190 Wien, Österreich  
 UID-Nr. AT U71975838
 
-**E-Mail-Adresse des Anbieters:** info@techomax.at  
+**E-Mail-Adresse des Anbieters:** info`@`techomax`.`at  
 **Festnummer des Anbieters:** +43 1 361 44 1133
 
 ---
