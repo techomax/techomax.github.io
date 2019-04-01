@@ -2,4 +2,6 @@
 
 This is the website of the wholesale company TECHOMAX GmbH which can be found at [techomax.at](techomax.at)
 
-Made using Jekyll and hosted on GitHub Pages.
+Made using [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages.
+
+Built and maintained by [Anna Filou](https://github.com/anna-filou/).
