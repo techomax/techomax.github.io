@@ -18,9 +18,22 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2"><strong>
-                    Eine Karriere bei Techomax</strong></h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Wir suchen motivierten Leute zur Verstärkung unseres Teams!</h3>
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                    <strong>
+                    {% if page.lang == 'en' %}
+                      A career at Techomax
+                      {% else %}
+                      Eine Karriere bei Techomax
+                      {% endif %}
+                    </strong>
+                </h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
+                {% if page.lang == 'en' %}
+                We are looking for motivated people to strengthen our team!
+                {% else %}
+                Wir suchen motivierten Leute zur Verstärkung unseres Teams!
+                {% endif %}
+                </h3>
                 
             </div>
         </div>
@@ -37,7 +50,14 @@
                 <div class="media-container-row">
                     <div class="media-content">
                         <div class="mbr-section-text">
-                            <p class="mbr-text align-right mb-0 mbr-fonts-style display-7">Sie haben vielleicht schon Berufserfahrung, sind aber auf jeden Fall gewillt neues zu lernen und eigenverantworlich zu arbeiten? Bei uns arbeiten Sie in einem kleinen Team in Wien!<br></p>
+                            <p class="mbr-text align-right mb-0 mbr-fonts-style display-7">
+                                {% if page.lang == 'en' %}
+                                Maybe you've already got professional experience, maybe not. But you are definitely willing to learn new things and to work on your own initiative? With us you will work in a small team in Vienna!
+                                {% else %}
+                                Sie haben vielleicht schon Berufserfahrung, sind aber auf jeden Fall gewillt neues zu lernen und eigenverantworlich zu arbeiten? Bei uns arbeiten Sie in einem kleinen Team in Wien!
+                                {% endif %}
+                                <br>
+                            </p>
                         </div>
                     </div>
                     <div class="mbr-figure" style="width: 50%;">
@@ -56,7 +76,16 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-5"><strong>Was Sie brauchen:</strong></h2>
+                <h2 class="align-center pb-3 mbr-fonts-style display-5">
+                    <strong>
+               
+                {% if page.lang == 'en' %}
+                What you need:
+                {% else %}
+                Was Sie brauchen:
+                {% endif %}
+                     </strong>
+                 </h2>
                 
                 
             </div>
@@ -71,9 +100,17 @@
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style display-7">
                 <ul>
+                    {% if page.lang == 'en' %}
+                    <li>Ability to speak and write in German &amp; English fluently (other languages also useful!)</li>
+                    <li>Responsible &amp; motivated</li>
+                    <li>Quick &amp; flexible problem-solving</li>
+                    <li>Good computer skills</li>
+                    {% else %}
                     <li>Super Deutsch- &amp; Englischkenntnisse (andere Sprachen auch nützlich!)</li>
                     <li>Eigenverantwortlich &amp; motiviert</li>
-                    <li>Schnelle &amp; flexible Problemlösung</li><li>Gute Computerkenntnisse</li>
+                    <li>Schnelle &amp; flexible Problemlösung</li>
+                    <li>Gute Computerkenntnisse</li>
+                    {% endif %}
                 </ul>
             </div>
         </div>
@@ -87,8 +124,21 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2">Haben wir Ihr Interesse geweckt?</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5"><strong>Füllen Sie unser Formular einfach aus und laden Sie Ihren Lebenslauf hoch!</strong></h3>
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                {% if page.lang == 'en' %}
+                Have we piqued your interest?
+                {% else %}
+                Haben wir Ihr Interesse geweckt?
+                {% endif %}
+                </h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
+                    <strong>
+                        {% if page.lang == 'en' %}
+                        Then just complete the form below and upload your resume!
+                        {% else %}
+                        Füllen Sie unser Formular einfach aus und laden Sie Ihren Lebenslauf hoch!
+                        {% endif %}
+                    </strong></h3>
                 
             </div>
         </div>
