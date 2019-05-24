@@ -9,7 +9,7 @@
                         <div class="mbr-section-text">
                             <p class="mbr-text align-right mb-0 mbr-fonts-style display-5">
                                 {% if page.lang == 'en' %}
-                                You can also reach us through the <strong>Chat&nbsp;Bubble on the bottom&nbsp;right</strong>if the page!
+                                You can also reach us through the <strong>Chat&nbsp;Bubble on the bottom&nbsp;right</strong> of the page!
                                 {% else %}
                                 Sie können uns auch durch die <strong>Chat-Blase&nbsp;unten rechts&nbsp;</strong>erreichen!
                                 {% endif %}
@@ -31,7 +31,15 @@
         <div class="media-container-row">
             <div class="col-12 col-md-8">
                 <div class="section-head text-center space30">
-                    <h2 class="mbr-section-title pb-5 mbr-fonts-style display-2"><strong>F.A.Q. - Häufig gestellte Fragen</strong></h2>
+                    <h2 class="mbr-section-title pb-5 mbr-fonts-style display-2">
+                    	<strong>
+                    	{% if page.lang == 'en' %}
+                        F.A.Q. - <strong>F</strong>requently <strong>A</strong>sked <strong>Q</strong>uestions
+                        {% else %}
+                        F.A.Q. - Häufig gestellte Fragen
+                        {% endif %}
+                    	</strong>
+                    </h2>
                 </div>
                 <div class="clearfix"></div>
                 <div id="bootstrap-accordion_32" class="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
@@ -52,9 +60,23 @@
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
                                    {% if page.lang == 'en' %}
-                                    For first transactions we need full pre-payment. We often ship the goods "on hold" to a logistics-warehouse where they can be checked before the customer pays.<br><br>For subsequent transactions we usually require a partial prepayment of 30% before we ship the goods to the customer.
-                                    {% else %}
-                                    Für erste Geschäfte benötigen wir die volle Vorauszahlung. Wir versenden die Waren oft "on hold" an eine Logistik, wo sie überprüft werden können, bevor der Kunde bezahlt.<br><br>Für Folgegeschäfte benötigen wir in der Regel eine Teilvorauszahlung von 30%, bevor wir die Ware an den Kunden versenden.
+                                    For first transactions, there are generally 3 payment options, as listed below.<br>
+                                    <ul>
+                                    <li>Option 1: 100% prepayment to ship the goods directly to your company's warehouse, or
+									<li>Option 2: 10% prepayment to ship the goods "on-hold" to an independent logistics warehouse of your choice
+									<li>Option 3: Pickup from our warehouse EXW after paying in full (possible to inspect the goods beforehand)
+									</ul>
+									For transactions with regular clients we usually require a partial prepayment of 30% and we can ship the goods directly to the customer.
+
+									{% else %}
+
+									Für erste Transaktionen gibt es im Allgemeinen 3 Zahlungsmöglichkeiten, wie unten aufgeführt.
+                                    <ul>
+                                    <li>Option 1: 100% Vorauszahlung, um die Ware direkt an das Lager Ihres Unternehmens zu liefern, oder
+									<li>Option 2: 10% Vorauszahlung für den Versand der Ware "on hold" an ein unabhängiges Logistiklager Ihrer Wahl.
+									<li>Option 3: Abholung von unserem Lager (EXW) nach vollständiger Bezahlung (es ist möglich, die Ware vorab zu prüfen.)
+									</ul>
+									Bei Transaktionen mit Stammkunden verlangen wir in der Regel eine Abschlagszahlung von 30% und können die Ware direkt an den Kunden versenden.
                                     {% endif %}
                                    <br>
                                </p>
