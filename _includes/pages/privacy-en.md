@@ -39,8 +39,8 @@ Data collected:
 	* Legal documents of the company and its director (i.e. digital copies of trade register, photo ID and relevant documents)
 	* Contact details (email & phone number) of company office
 	* Contact details (email & phone number) of a contact person from within the company Information regarding the kind of products that the company tardes
-	* Bank account information of company
-Our database and application form is powered by Airtable.
+	* Bank account information of company  
+	Our database and application form is powered by Airtable.
 
 ---
 

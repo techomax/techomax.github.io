@@ -44,8 +44,8 @@ Personenbezogene Daten:
 	- Kontaktdaten (E-Mail & Telefonnummer) des Firmensitzes
 	- Kontaktdaten (E-Mail & Telefonnummer) eines Ansprechpartners aus dem Unternehmen 
 	- Informationen über die Art der Produkte, die das Unternehmen handelt
-	- Bankkontoinformationen der Firma
-Unsere Datenbank und unser Antragsformular werden von Airtable betrieben.
+	- Bankkontoinformationen der Firma  
+	Unsere Datenbank und unser Antragsformular werden von Airtable betrieben.
 
 ---
 
