@@ -28,8 +28,8 @@ Our mailing list provider is MailerLite.
 - **Live Chat widget**  
 Data collected:
 	- Approximate location of user, based on their IP-Address
-	- Any messages and info that the user willingly sends
-Our Live Chat widget provider is Tawk.to.
+	- Any messages and info that the user willingly sends.  
+	Our Live Chat widget provider is Tawk.to.
 
 ### 3. Registration & Verification of potential partners
 - **Registation Form**  

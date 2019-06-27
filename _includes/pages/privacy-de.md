@@ -32,9 +32,8 @@ Unser Mailinglisten-Anbieter ist MailerLite.
 - **Live-Chat-Widget**  
 Personenbezogene Daten:
 	- Ungefährer Standort des Benutzers, basierend auf seiner IP-Adresse.
-	- Alle Nachrichten und Informationen, die der Benutzer freiwillig sendet.
-	
-Unser Live Chat Widget-Anbieter ist Tawk.to. 
+	- Alle Nachrichten und Informationen, die der Benutzer freiwillig sendet.  
+	Unser Live Chat Widget-Anbieter ist Tawk.to. 
 
 ### 3. Registrierung & Verifizierung potenzieller Geschäfts-Partner
 - **Registrierungsformular**  
@@ -77,7 +76,7 @@ Alle im Registrierungsformular eingegebenen Daten (detaillierte Informationen im
 
 - **tawk.to inc.**  
 Anbieter von Live-Chat-Widget.  
-[Datenschutzerklärung](https://www.chaport.com/privacy) 
+[Datenschutzerklärung](https://www.chaport.com/privacy)  
 **Verarbeitungsort:** Vereinigte Staaten von Amerika & Irland (für Details [hier klicken](https://www.tawk.to/data-protection/sub-processors/))
 
 ---
