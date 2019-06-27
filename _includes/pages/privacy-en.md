@@ -29,7 +29,7 @@ Our mailing list provider is MailerLite.
 Data collected:
 	- Approximate location of user, based on their IP-Address
 	- Any messages and info that the user willingly sends
-Our Live Chat widget provider is Chaport.
+Our Live Chat widget provider is Tawk.to.
 
 ### 3. Registration & Verification of potential partners
 - **Registation Form**  
@@ -66,12 +66,12 @@ MailerLite is an email address management and message sending service provided b
 *Company database infrastructure provider.*  
 All data entered in the Registration Form (detailed info in the previous section) is stored on Airtable’s servers in the United States. Airtable uses 256 bit Advanced Encryption Standard (AES) to protect the data.  
 [Privacy Policy](https://airtable.com/privacy)  
-**Place of processing:** United States  
+**Place of processing:** United States of America
 
-- **Chaport LLC**  
+- **tawk.to inc.**  
 Live chat widget provider.  
-[Privacy Policy](https://www.chaport.com/privacy)  
-**Place of processing:** The Netherlands
+[Privacy Policy](https://www.tawk.to/privacy-policy/)  
+**Place of processing:** United States of America & Ireland ([click for details](https://www.tawk.to/data-protection/sub-processors/))
 
 ---
 Latest update: 22 March 2019
