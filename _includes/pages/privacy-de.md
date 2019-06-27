@@ -18,7 +18,7 @@ Die TECHOMAX GmbH *(nachfolgend "wir")* verwendet die von den Besuchern der Webs
 (weitere Informationen zu den einzelnen Diensten finden Sie im nächsten Abschnitt)
 
 ### 1. Analytik
-- **Google Analytics**
+- **Google Analytics**  
 Personenbezogene Daten:
 	- Cookies und Nutzungsdaten
 
@@ -26,8 +26,8 @@ Personenbezogene Daten:
 - **Mailing List**  
 Personenbezogene Daten:
 	- E-Mail-Adresse
-	- Name des Unternehmen
-Unser Mailinglisten-Anbieter ist MailerLite.
+	- Name des Unternehmen  
+	Unser Mailinglisten-Anbieter ist MailerLite.
 
 - **Live-Chat-Widget**  
 Personenbezogene Daten:

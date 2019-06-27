@@ -23,8 +23,8 @@ Data collected:
 - **Mailing List**  
 Data collected:
 	- Email address
-	- Name of company
-Our mailing list provider is MailerLite. 
+	- Name of company  
+	Our mailing list provider is MailerLite. 
 - **Live Chat widget**  
 Data collected:
 	- Approximate location of user, based on their IP-Address
