@@ -1,97 +1,99 @@
-<section class="menu cid-qY3hXWuzxc" id="menu2-5g">
-	<nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
-		<button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
-		<div class="hamburger">
-			<span></span> <span></span> <span></span> <span></span>
-		</div></button>
-		<div class="menu-logo">
-			<div class="navbar-brand">
-				<span class="navbar-logo"><a href="#top"><img alt="TECHOMAX" src="/assets/images/tm-text-prop-1-favicon-carmine-122x122.png" style="height: 3.8rem;" title=""></a></span> <span class="navbar-caption-wrap">
-					<a class="navbar-caption text-black display-5" href="/{{ page.lang }}/">TECHOMAX</a>
-				</span>
-			</div>
-		</div>
+  <section class="menu cid-qY3hXWuzxc" once="menu" id="menu2-5g">
 
-		<div class="collapse navbar-collapse" id="navbarSupportedContent">
-			<ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
-				<li class="nav-item dropdown">
-					<a aria-expanded="false" class="nav-link link dropdown-toggle text-black display-4" data-toggle="dropdown-submenu" href="/{{ page.lang }}/info">Info</a>
-					<div class="dropdown-menu">
-						<a class="dropdown-item text-black display-4" href="/{{ page.lang }}/info">
-							{% if page.lang == 'en' %}
-							Products
-							{% else %}
-							Produkte
-							{% endif %}
-							<br></a>
-						<a class="dropdown-item text-black display-4" href="/{{ page.lang }}/info/#content9-22">
-							{% if page.lang == 'en' %}
-							Logistics
-							{% else %}
-							Logistik
-							{% endif %}
-							<br></a>
-						<a class="dropdown-item text-black display-4" href="/{{ page.lang }}/info/#content9-5i">
-							{% if page.lang == 'en' %}
-							Shipping
-							{% else %}
-							Versand
-							{% endif %}
-						</a>
-						<a aria-expanded="true" class="text-black dropdown-item display-4" href="/{{ page.lang }}/info/#content9-5l">
-							{% if page.lang == 'en' %}
-							Company
-							{% else %}
-							Firma
-							{% endif %}
-						</a>
-						<a aria-expanded="false" class="text-black dropdown-item display-4" href="/{{ page.lang }}/info/#bank">Bank</a>
-					</div>
-				</li>
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="#top">
+                        <img src="assets/images/tm-text-prop-1-favicon-carmine-122x122.png" alt="TECHOMAX" title="" style="height: 3.8rem;">
+                    </a>
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-5" href="/{{ page.lang }}/">TECHOMAX</a></span>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item dropdown">
 
-				<li class="nav-item">
-					<a class="nav-link link text-black display-4" href="/{{ page.lang }}/contact">
-						{% if page.lang == 'en' %}
-						Contact
-						{% else %}
-						Kontakt
-						{% endif %}
-					</a>
-				</li>
+                <a class="nav-link link dropdown-toggle text-black display-4" href="/{{ page.lang }}/info" data-toggle="dropdown-submenu" aria-expanded="false"><span class="mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn"></span>
+                        Info</a><div class="dropdown-menu">
 
-				<li class="nav-item">
-					<a class="nav-link link text-black display-4" href="/
-					{% if page.lang == 'en' %}
-					de
-					{% else %}
-					en
-					{% endif %}
-					/{{page.ref}}"><span class="mobi-mbri mobi-mbri-globe-2 mbr-iconfont mbr-iconfont-btn"></span>
-					{% if page.lang == 'en' %}
-					DEUTSCH
-					{% else %}
-					ENGLISH
-					{% endif %}
-					</a>
-				</li>
-			</ul>
+                <a class="dropdown-item text-black display-4" href="/{{ page.lang }}/info">
+                    {% if page.lang == 'en' %}
+                    Products
+                    {% else %}
+                    Produkte
+                    {% endif %}
+                    <br></a>
 
-			<div class="navbar-buttons mbr-section-btn">
-				<a class="btn btn-sm btn-success display-4" href="/{{ page.lang }}/products"><span class="mobi-mbri mobi-mbri-shopping-bag mbr-iconfont mbr-iconfont-btn"></span>
-					{% if page.lang == 'en' %}
-					Products
-					{% else %}
-					Produkte
-					{% endif %}
-				</a>
-				<a class="btn btn-sm btn-secondary display-4" href="/{{ page.lang }}/register"><span class="mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn"></span>
-				{% if page.lang == 'en' %}
-				Register
-				{% else %}
-				Registrieren
-				{% endif %}
-				</a>
-			</div>
-		</div>
-	</nav>
+                <a class="dropdown-item text-black display-4" href="/{{ page.lang }}/info/#content9-22">
+                    {% if page.lang == 'en' %}
+                    Logistics
+                    {% else %}
+                    Logistik
+                    {% endif %}
+                    <br></a>
+
+                <a class="dropdown-item text-black display-4" href="/{{ page.lang }}/info/#content9-5i">
+                    {% if page.lang == 'en' %}
+                    Shipping
+                    {% else %}
+                    Versand
+                    {% endif %}
+                    </a>
+
+                <a class="text-black dropdown-item display-4" href="/{{ page.lang }}/info/#content9-5l" aria-expanded="false">
+                    {% if page.lang == 'en' %}
+                    Company
+                    {% else %}
+                    Firma
+                    {% endif %}
+                    </a>
+
+                <a class="text-black dropdown-item display-4" href="/{{ page.lang }}/contact/faq" aria-expanded="false">Bank</a></div></li><li class="nav-item">
+
+                <a class="nav-link link text-black display-4" href="/{{ page.lang }}/tech"><span class="mobi-mbri mobi-mbri-devices mbr-iconfont mbr-iconfont-btn"></span><strong>Tech</strong></a></li><li class="nav-item">
+
+                <a class="nav-link link text-black display-4" href="/{{ page.lang }}/edibles"><span class="mobi-mbri mobi-mbri-hot-cup mbr-iconfont mbr-iconfont-btn"></span><strong>
+                    {% if page.lang == 'en' %}
+                    Edibles
+                    {% else %}
+                    Esswaren
+                    {% endif %}
+                    </strong></a></li><li class="nav-item">
+
+                <a class="nav-link link text-black display-4" href="/{{ page.lang }}/contact"><span class="mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn"></span>
+                    {% if page.lang == 'en' %}
+                    Contact
+                    {% else %}
+                    Kontakt
+                    {% endif %}
+                    </a></li><li class="nav-item">
+
+                <a class="nav-link link text-black display-4" href="/en/{{page.ref}}"><span class="mobi-mbri mobi-mbri-globe-2 mbr-iconfont mbr-iconfont-btn"></span>
+                {% if page.lang == 'en' %}
+                DEUTSCH
+                {% else %}
+                ENGLISH
+                {% endif %}
+                </a></li></ul>
+
+            <div class="navbar-buttons mbr-section-btn">
+
+                <a class="btn btn-sm btn-secondary display-4" href="/{{ page.lang }}/register"><span class="mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn"></span>
+                {% if page.lang == 'en' %}
+                Register
+                {% else %}
+                Registrieren
+                {% endif %}
+                </a></div>
+        </div>
+    </nav>
 </section>
