@@ -2254,7 +2254,7 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 767px) {
   .cid-rlseHmGy6o .iconfont-wrapper {
-    display: none;
+    display: inline-block;
   }
 }
 .cid-rlseHmGy6o .mbr-text B {
