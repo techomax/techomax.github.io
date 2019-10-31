@@ -68,10 +68,11 @@ All data entered in the Registration Form (detailed info in the previous section
 [Privacy Policy](https://airtable.com/privacy)  
 **Place of processing:** United States of America
 
-- **tawk.to inc.**  
-Live chat widget provider.  
-[Privacy Policy](https://www.tawk.to/privacy-policy/)  
-**Place of processing:** United States of America & Ireland ([click for details](https://www.tawk.to/data-protection/sub-processors/))
+
+- **BirdSeed, LLC**  
+Info-Center Widget provider.  
+[Privacy Policy](https://www.birdseed.io/privacy/)  
+**Place of processing:** United States of America  
 
 ---
 Latest update: 22 March 2019

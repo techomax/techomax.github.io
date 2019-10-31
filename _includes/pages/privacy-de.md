@@ -74,10 +74,10 @@ Alle im Registrierungsformular eingegebenen Daten (detaillierte Informationen im
 [Datenschutzerklärung](https://airtable.com/privacy)  
 **Verarbeitungsort:** Vereinigte Staaten von Amerika
 
-- **tawk.to inc.**  
-Anbieter von Live-Chat-Widget.  
-[Datenschutzerklärung](https://www.chaport.com/privacy)  
-**Verarbeitungsort:** Vereinigte Staaten von Amerika & Irland (für Details [hier klicken](https://www.tawk.to/data-protection/sub-processors/))
+- **BirdSeed, LLC**  
+Anbieter von Info-Center Widget.  
+[Datenschutzerklärung](https://www.birdseed.io/privacy/)  
+**Verarbeitungsort:** United States of America  
 
 ---
 

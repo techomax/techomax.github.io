@@ -5,7 +5,7 @@ On this page you will find the general terms and conditions for the use of the o
 
 2. Through the links on our website you can reach **other websites which are not under constant observation by TECHOMAX GmbH**. TECHOMAX GmbH accepts no liability whatsoever for the content of these websites, including their links, or for changes and/or updates to the content, and can therefore not be held responsible. The links on our website are provided for user convenience only.
 
-3. **Website visits may be registered for statistical purposes** in order to ensure continuity and regular improvement of the website. **Please also read our [privacy policy](/{{{ page.lang }}/privacy)**.
+3. **Website visits may be registered for statistical purposes** in order to ensure continuity and regular improvement of the website. **Please also read our [privacy policy](/{{ page.lang }}/privacy)**.
 
 4. TECHOMAX GmbH reserves the right to change/adapt/replace/update and/or delete individual or all ** information and data on this website at any time.
 
