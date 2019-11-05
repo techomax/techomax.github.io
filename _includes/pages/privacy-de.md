@@ -81,4 +81,4 @@ Anbieter von Info-Center Widget.
 
 ---
 
-*Letzte Aktualisierung: 22. März 2019*
+*Letzte Aktualisierung: 31. Oktober 2019*
