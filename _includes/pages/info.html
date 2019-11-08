@@ -309,11 +309,11 @@
 
                 {% if page.lang == 'en' %}
                 Shipping is serious business. We make sure that all the goods we send to our customers are <strong>packed correctly</strong> (to avoid damage) and<strong> insure all of our shipments</strong>. That way, you don't have to worry about receiving the items you bought.
-                <br>
+                <br><br>
                 Depending on the case, we either ship by <strong>courier</strong>, or <strong>cargo</strong>. In all cases we communicate the details of the shipment to you beforehand and allow you to voice <strong>your preferences, both in regards to speed, as well as price.</strong>
                 {% else %}
                 Versand ist ein seriöses Thema. Wir sorgen dafür, dass alle Waren, die wir an unsere Kunden versenden, <strong>ordnungsgemäß verpackt</strong> sind (um Schäden zu vermeiden) und <strong>versichern alle unsere Sendungen</strong>. Auf diese Weise müssen Sie sich keine Sorgen machen, dass Sie die von Ihnen gekauften Artikel erhalten.
-                <br>
+                <br><br>
                 Je nach Fall versenden wir entweder per <strong>Kurier</strong> oder per <strong>Fracht</strong>. In allen Fällen teilen wir Ihnen die Details der Sendung im Voraus mit und ermöglichen es Ihnen, <strong>Ihre Präferenzen sowohl in Bezug auf die Geschwindigkeit als auch auf den Preis</strong> zu äußern.
                 {% endif %}
 
@@ -391,9 +391,33 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5"><div><strong>Handelsregister-Nr.:</strong> FN 465679y</div><br><div><strong>UID-Nr.:</strong> ATU71975838</div><br><div>
-</div><div>
-</div><div><strong>Büro/Rechnungsadresse</strong><strong>:</strong></div><div>Heiligenstädter Lände 29/2. OG,</div><div>1190 Wien,&nbsp;<span style="font-size: 1.5rem;">Österreich</span></div></h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
+
+                    {% if page.lang == 'en' %}
+                        <div> <strong>Trade Register No.:</strong> FN 465679y
+                        </div>
+                        <div> <strong>VAT No.:</strong> ATU71975838
+                        </div>
+                        <div><strong>Office/Billing&nbsp;Address: 
+                        </strong>
+                        </div>
+                        <div>Heiligenstädter Lände 29/2. OG,
+                        </div>
+                        <div>1190 Vienna, <span style="font-size: 1.5rem;">Austria</span>
+                        </div>
+                      {% else %}
+                        <div> <strong>Handelsregister-Nr.:</strong> FN 465679y
+                        </div>
+                        <div> <strong>UID-Nr.:</strong> ATU71975838
+                        </div>
+                        <div><strong>Büro/Rechnungsadresse: 
+                        </strong>
+                        </div>
+                        <div>Heiligenstädter Lände 29/2. OG,
+                        </div>
+                        <div>1190 Wien,&nbsp;<span style="font-size: 1.5rem;">Österreich</span>
+                        </div>
+                      {% endif %}
                 
             </div>
         </div>
@@ -434,7 +458,7 @@
             <div class="col-12 col-md-8">
                 <div class="media-container-row">
                     <div class="mbr-figure" style="width: 75%;">
-                      <img src="/assets/images/undraw-vault-9cmw-1.svg" alt="bank vault" title="">  
+                      <img style="max-width: 50vw; margin-left: auto; margin-right: auto;" src="/assets/images/undraw-vault-9cmw-1.svg" alt="bank vault" title="">  
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text">
