@@ -170,6 +170,8 @@
     </div>
 </section>
 
+{% include product-tiles.html %}
+
 <section class="mbr-section content6 cid-rHen6DKLnR" id="content6-6a">
     
      
@@ -272,7 +274,6 @@
                 {% endif %}
                 </h1>
                 
-                
                 <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="/{{ page.lang }}/tech"><span class="mobi-mbri mobi-mbri-devices mbr-iconfont mbr-iconfont-btn" style="color: rgb(255, 255, 255);"></span>
                 {% if page.lang == 'en' %}
                 PRODUCTS
@@ -286,7 +287,6 @@
 
 </section>
 
-{% include product-tiles.html %}
 
 <section class="cid-qXYxHXwVV6" id="image1-c">
 
@@ -340,14 +340,13 @@
 
 <section class="mbr-section content6 cid-qY3KByCHyy" id="content6-q">
     
-     
     
     <div class="container">
         <div class="media-container-row">
             <div class="col-12 col-md-8">
                 <div class="media-container-row">
                     <div class="mbr-figure" style="width: 60%;">
-                      <a href="//contact"><img style="max-width: 60vw; margin-left: auto; margin-right: auto;" src="/assets/images/chatting-1.svg" alt="chat" title=""></a>  
+                      <a href="/{{ page.lang }}/contact"><img style="max-width: 60vw; margin-left: auto; margin-right: auto;" src="/assets/images/chatting-1.svg" alt="chat" title=""></a>  
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text">
@@ -357,7 +356,7 @@
                               {% else %}
                               Fragen?
                               {% endif %}
-                          </strong><strong><br></strong>
+                          </strong><br>
                           <strong>
                                 <a href="/{{ page.lang }}/contact" class="text-primary">
                                 {% if page.lang == 'en' %}
