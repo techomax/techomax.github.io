@@ -2,7 +2,7 @@
 ### Owner and Data Controller
 **TECHOMAX GmbH**  
 Heiligenstädter Lände 29 / 2. OG  
-A-1190 Vienna, Austria  
+A-1010 Vienna, Austria  
 VAT Number: AT U71975838
 
 **Owner contact email:** info`@`techomax`.`at  

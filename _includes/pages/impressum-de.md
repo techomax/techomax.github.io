@@ -3,7 +3,7 @@
 
 **TECHOMAX GmbH**  
 Heiligenstädter Lände 29 / 2. OG.  
-A-1190 Wien, Österreich
+A-1010 Wien, Österreich
 
 **Geschäftsführer:** Panagiotis Kazasidis
 

@@ -2,8 +2,8 @@
 ### Anbieter und Verantwortlicher:
 
 **TECHOMAX GmbH**  
-Heiligenstädter Lände 29 / 2. OG,  
-A-1190 Wien, Österreich  
+Gonzagagasse 1/24  
+A-1010 Wien, Österreich  
 UID-Nr. AT U71975838
 
 **E-Mail-Adresse des Anbieters:** info`@`techomax`.`at  
