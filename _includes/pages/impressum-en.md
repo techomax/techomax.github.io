@@ -2,7 +2,7 @@
 ### Responsible for the offer of techomax.at:  
 
 **TECHOMAX GmbH**  
-Heiligenstädter Lände 29 / 2. OG  
+Gonzagagasse 1/24  
 A-1010 Vienna, Austria
 
 **Managing Director:** Panagiotis Kazasidis

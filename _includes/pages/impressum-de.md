@@ -2,7 +2,7 @@
 ### Verantwortlich für das Angebot auf techomax.at:
 
 **TECHOMAX GmbH**  
-Heiligenstädter Lände 29 / 2. OG.  
+Gonzagagasse 1/24.  
 A-1010 Wien, Österreich
 
 **Geschäftsführer:** Panagiotis Kazasidis
